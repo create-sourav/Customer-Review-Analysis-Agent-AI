@@ -48,12 +48,11 @@ customer-review-analysis/
 Quickstart
 ----------
 1. Clone repository:
-    git clone https://github.com/yourusername/customer-review-analysis.git
+    git clone https://github.com/create-sourav/Customer-Review-Analysis.git
     cd customer-review-analysis
 
 2. Create and activate virtual environment:
     python -m venv venv
-    source venv/bin/activate   # macOS/Linux
     venv\Scripts\activate    # Windows
 
 3. Install dependencies:
