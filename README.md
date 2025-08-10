@@ -59,7 +59,6 @@ Quickstart
     pip install -r requirements.txt
 
 4. Set up API key:
-    export GOOGLE_API_KEY="your_google_api_key"  # macOS/Linux
     setx GOOGLE_API_KEY "your_google_api_key"    # Windows
 
 5. Run the script:
